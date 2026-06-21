@@ -31,7 +31,7 @@ Tüm araçlar tek menüden seçilir, her işlem sonunda ana menüye dönülür �
 ```bash
 pkg update
 pkg install python git inetutils net-tools dnsutils -y
-git clone https://github.com/KULLANICI_ADIN/zwed-network-toolkit.git
+git clone https://github.com/zwed303/zwed-network-toolkit.git
 cd zwed-network-toolkit
 python zwed_toolkit.py
 ```
@@ -41,7 +41,7 @@ python zwed_toolkit.py
 ```bash
 sudo apt update
 sudo apt install python3 git iputils-ping net-tools dnsutils -y
-git clone https://github.com/KULLANICI_ADIN/zwed-network-toolkit.git
+git clone https://github.com/zwed303/zwed-network-toolkit.git
 cd zwed-network-toolkit
 python3 zwed_toolkit.py
 ```
