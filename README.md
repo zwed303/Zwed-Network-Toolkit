@@ -49,7 +49,7 @@ python3 zwed_toolkit.py
 ### Tek dosya indirme (git olmadan)
 
 ```bash
-curl -O https://raw.githubusercontent.com/KULLANICI_ADIN/zwed-network-toolkit/main/zwed_toolkit.py
+curl -O https://raw.githubusercontent.com/zwed303/zwed-network-toolkit/main/zwed_toolkit.py
 python zwed_toolkit.py
 ```
 
